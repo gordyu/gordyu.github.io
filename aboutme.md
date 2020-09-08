@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Gordon Yu, Esq., MBA
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+I'm an attorney with 3 bar licenses, a former executive with an MBA who taught executive MBA students at a tier 1 research university, and a writer who a leading book about the GDPR. I am transitioning to a software engineering career.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Check out my LinkedIn profile for my writing and my YouTube channel for programming demonstrations.
